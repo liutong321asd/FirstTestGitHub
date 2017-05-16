@@ -1,6 +1,10 @@
 This is the First!!!
 <<<<<<< HEAD
 123456
+<<<<<<< HEAD
 =======
 88888888smallbranch
 >>>>>>> smallbranch
+=======
+666666dev
+>>>>>>> dev
