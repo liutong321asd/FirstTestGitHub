@@ -1,2 +1,6 @@
 This is the First!!!
+<<<<<<< HEAD
 123456
+=======
+88888888smallbranch
+>>>>>>> smallbranch
